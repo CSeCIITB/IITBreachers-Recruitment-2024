@@ -1,0 +1,9 @@
+Designed to test your ability to interpret code and what exactly it is trying to do... Drawing inspiration from Huffman Encoding and what else can we ask for!
+Let's see how well you fare with decoding stuff when the Encoding script is already provided to you! 
+
+
+Psst...  Sometimes it's not as complicated as it seems...
+
+
+Author: Vivek Gohil
+(V33010)

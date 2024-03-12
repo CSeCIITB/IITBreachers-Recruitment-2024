@@ -1,0 +1,7 @@
+Can you join our admin's party on the theme JeWish-Tale?
+Access the application on: https://web-chall-jewish-tale.onrender.com
+How to run the application?
+- use "pip3 install flask pyjwt" to install flask dependency.
+- To run the paplication start a terminal and run "python3 app.py"
+
+Author: Raj Pastagiya (Opt1mal)

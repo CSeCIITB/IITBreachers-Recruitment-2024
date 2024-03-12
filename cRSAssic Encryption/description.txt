@@ -1,0 +1,6 @@
+Are all the conditions in RSA really all that necessary anyway?
+Also, you have the prime factors, so it must be a piece of cake for you.
+
+Flag Format: flag{.*}
+
+Author: Nilabha Saha

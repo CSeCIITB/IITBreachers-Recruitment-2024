@@ -1,0 +1,11 @@
+Wake up babe! 
+
+A very Primitive form of crypto just dropped. 
+
+Forget RSA and elliptic curves, let's get back to our Roots and Count our coins to the moooooooon!
+
+Note - The output file after running the code is attached.
+
+Flag Format: flag{.*}
+
+Author: Satyankar Chandra

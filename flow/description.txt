@@ -1,0 +1,8 @@
+Enter your real name only.
+Otherwise I will know ...
+You can't go anywhere,
+And you surely can't win!
+
+flag format : flag{...}
+
+Author : Lakshya Gadhwal (DarthVishnu)

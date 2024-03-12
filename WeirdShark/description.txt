@@ -1,0 +1,2 @@
+dive into the depths of this capture file, dissect the packets, and decode the hidden message to unveil the flag. Will you emerge victorious, or will the WeirdShark's secrets remain hidden forever? The challenge awaits!
+Author: Amlan Biswas (N3M3S1S) 

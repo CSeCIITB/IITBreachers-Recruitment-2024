@@ -1,0 +1,5 @@
+There's a lot more to binaries than meets the eye; they may vary in structure and size depending on what lies underneath, and identifying these details may help you progress significantly in this challenge. Try to find out what's going on in this binary and retrieve the flag - or wait, is anything even going on here?
+
+Flag format: flag{.*}
+
+Author: Maithri Suresh (might-tree)
