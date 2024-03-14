@@ -3,6 +3,12 @@ Otherwise I will know ...
 You can't go anywhere,
 And you surely can't win!
 
+Note: If you are facing an issue of "file not found" then use this command,
+
+sudo apt update
+sudo apt install gcc-multilib
+
+
 flag format : flag{...}
 
 Author : Lakshya Gadhwal (DarthVishnu)
